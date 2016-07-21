@@ -17,15 +17,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Visual Studio Environment
-.vs/
-*.suo
-*.user
-**/obj/Debug/
-**/obj/Release/
-*.vshost.*
-
-
 # =========================
 # Operating System Files
 # =========================

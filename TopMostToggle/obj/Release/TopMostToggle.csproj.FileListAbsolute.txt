@@ -34,6 +34,3 @@ C:\Users\Prescott\Desktop\TopMostToggle\TopMostToggle\bin\Release\TopMostToggle.
 C:\Users\Prescott\Desktop\TopMostToggle\TopMostToggle\obj\Release\MyApp.MainForm.resources
 C:\Users\Prescott\Desktop\TopMostToggle\TopMostToggle\obj\Release\TopMostToggle.csproj.GenerateResource.Cache
 C:\Users\Prescott\Desktop\TopMostToggle\TopMostToggle\bin\Release\TopMostToggle.exe.config
-E:\MyDocs\Owner\OneDrive\dev\GitHub\TopMostToggle\TopMostToggle\bin\Release\TopMostToggle.exe.config
-E:\MyDocs\Owner\OneDrive\dev\GitHub\TopMostToggle\TopMostToggle\obj\Release\TopMostToggle.exe
-E:\MyDocs\Owner\OneDrive\dev\GitHub\TopMostToggle\TopMostToggle\obj\Release\TopMostToggle.pdb
